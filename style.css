@@ -1,0 +1,11 @@
+#container {
+  width: 560px;
+  height: 560px;
+  display: grid;
+}
+
+.gridElement {
+  background-color: red;
+  width: auto;
+
+}
